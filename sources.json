@@ -1,1 +1,25 @@
-
+{
+  "items": [
+    {
+      "type": "mushaf",
+      "id": "saudi15",
+      "title": "হাফিজি কোরআন (সৌদি)",
+      "url": "https://github.com/imran222ahmad/nur-catalog/blob/main/Hafezi-Quran-Emdadia.pdf",
+      "note": "৬১০ পৃষ্ঠা",
+      "offset": 1,
+      "index": { "s1": 1, "s2": 2, "j1": 1, "j2": 22 }
+    },
+    {
+      "type": "kitab",
+      "category": "সীরাত",
+      "title": "বইয়ের নাম",
+      "url": "https://example.com/book.pdf"
+    },
+    {
+      "type": "article",
+      "category": "প্রবন্ধ",
+      "title": "প্রবন্ধের নাম",
+      "url": "https://example.com/post"
+    }
+  ]
+}
