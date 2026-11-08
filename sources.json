@@ -4,6 +4,7 @@
   "contactEmail": "you@example.com",
   "whatsNew": [ { "version": "১.১", "text": "ফন্ট বাছাই ও মানযিল যোগ হয়েছে" } ],
   "links": [ { "title": "ফেসবুক পেইজ", "url": "https://facebook.com/..." } ],
+  "links": [ { "title": "ফেসবুক পেইজ", "url": "https://facebook.com/..." } ],
   "items": [
     {
   "type": "kitab",
